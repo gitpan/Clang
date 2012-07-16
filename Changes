@@ -1,0 +1,83 @@
+==================================================
+Changes from 2011-07-17 00:00:00 +0000 to present.
+==================================================
+
+-----------------------------------------
+version 0.01 at 2012-07-16 10:04:40 +0000
+-----------------------------------------
+
+  Change: b4abd189d0a5b137bd75a30ab75a3c9212d6bb72
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 12:00:45 +0000
+
+    Clang.pm: fix SYNOPSIS 
+
+  Change: 299f065d8960b929dcbfb996ba172d805fb1b29c
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 11:56:41 +0000
+
+    MANIFEST: add MANIFEST.SKIP 
+
+  Change: c8273bb076c758a94bbf8bf1a315afd022f099f2
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 11:53:12 +0000
+
+    Clang.pm: a little better documentation 
+
+  Change: 5ac63587b8b0fc4f034d36f23b6dbc42527cc1ac
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 11:48:31 +0000
+
+    Clang.pm: use Clang instead of use Clang::Index 
+
+  Change: ac8c73542e40302684d0810729529b9ed693cf88
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 11:44:07 +0000
+
+    Clang.xs: implement cursor's location method 
+
+  Change: 32c40d35e05ea929b214cb7629b697b9fec77baa
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 11:10:32 +0000
+
+    Clang.xs: implement cursor's children method 
+
+  Change: b32643893ad075c0e5f95a81fb90fb09cd91397e
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 10:50:41 +0000
+
+    Clang.xs: implement cursor's children method 
+
+  Change: 51ae0d096d3235930cc48380e9a8e4590e7927b2
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 10:50:41 +0000
+
+    t: fix tests 
+
+  Change: f0af640c66b616d22e36bd9c3f683a38c7226c6a
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-15 23:35:10 +0000
+
+    Clang.xs: add DESTROY for C::I::TUnit 
+
+  Change: 952e8b612525b3ad570f1f963fc10e3b11a2909a
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-15 23:03:53 +0000
+
+    Clang.xs: add DESTROY for C::I::Cursor 
+
+  Change: a8b3383448baf7b1dbe12eb3b317072314898639
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-15 22:16:34 +0000
+
+    lib: better short descriptions 
+
+  Change: 0464e9a747ca9098be3854ea0ed6e4ca6c00cace
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-15 21:42:51 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
