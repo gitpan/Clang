@@ -3,7 +3,23 @@ Changes from 2011-07-17 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.01 at 2012-07-16 10:04:40 +0000
+version 0.02 at 2012-07-16 10:30:19 +0000
+-----------------------------------------
+
+  Change: c3ee9432f228d07eff5779b3e287e82e80176bab
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 12:29:58 +0000
+
+    more documentation 
+
+  Change: ef04bead9e120f428ec80456938c140dab57e532
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 12:06:13 +0000
+
+    dist.ini: fix repo name 
+
+-----------------------------------------
+version 0.01 at 2012-07-16 10:00:45 +0000
 -----------------------------------------
 
   Change: b4abd189d0a5b137bd75a30ab75a3c9212d6bb72

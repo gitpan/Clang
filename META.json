@@ -38,16 +38,16 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/AlexBio/p5-FFI-Raw/issues"
+         "web" : "https://github.com/AlexBio/p5-Clang/issues"
       },
       "homepage" : "http://metacpan.org/release/Clang/",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/AlexBio/p5-FFI-Raw.git",
-         "web" : "https://github.com/AlexBio/p5-FFI-Raw"
+         "url" : "git://github.com/AlexBio/p5-Clang.git",
+         "web" : "https://github.com/AlexBio/p5-Clang"
       }
    },
-   "version" : 0.01,
+   "version" : "0.02",
    "x_Dist_Zilla" : {
       "plugins" : [
          {

@@ -1,6 +1,6 @@
 package Clang;
 {
-  $Clang::VERSION = '0.01';
+  $Clang::VERSION = '0.02';
 }
 
 use strict;
@@ -15,7 +15,7 @@ Clang - Perl bindings to the Clang compiler's indexing interface
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

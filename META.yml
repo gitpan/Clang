@@ -21,10 +21,10 @@ requires:
   strict: 0
   warnings: 0
 resources:
-  bugtracker: https://github.com/AlexBio/p5-FFI-Raw/issues
+  bugtracker: https://github.com/AlexBio/p5-Clang/issues
   homepage: http://metacpan.org/release/Clang/
-  repository: git://github.com/AlexBio/p5-FFI-Raw.git
-version: 0.01
+  repository: git://github.com/AlexBio/p5-Clang.git
+version: 0.02
 x_Dist_Zilla:
   plugins:
     -

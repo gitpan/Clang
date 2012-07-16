@@ -10,6 +10,10 @@ README
 dist.ini
 inc/MakeMaker.pm
 lib/Clang.pm
+lib/Clang/Index.pm
+lib/Clang/Index/Cursor.pm
+lib/Clang/Index/CursorKind.pm
+lib/Clang/Index/TUnit.pm
 t/00-compile.t
 t/01-tunit.t
 t/02-cursor.t
