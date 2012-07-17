@@ -1,6 +1,6 @@
 package Clang::Index;
 {
-  $Clang::Index::VERSION = '0.02';
+  $Clang::Index::VERSION = '0.03';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Clang::Index - Clang index class
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 
@@ -27,7 +27,7 @@ Create a new C<Clang::Index> object.
 
 =head2 parse( $filename )
 
-Parse the file C<$filename> and retrieve the corresponding L<Clang::Index::TUnit>.
+Parse the file C<$filename> and retrieve the corresponding L<Clang::TUnit>.
 
 =head1 AUTHOR
 

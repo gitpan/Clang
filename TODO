@@ -1,0 +1,4 @@
+* token support
+* diagnostics support
+* code completion support
+* other (see python's cindex)

@@ -1,9 +1,61 @@
 ==================================================
-Changes from 2011-07-17 00:00:00 +0000 to present.
+Changes from 2011-07-18 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.02 at 2012-07-16 10:30:19 +0000
+version 0.03 at 2012-07-17 10:21:40 +0000
+-----------------------------------------
+
+  Change: 8c146d480cc75db05d864a723c7e5f1bb52b2ae5
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-17 12:21:32 +0000
+
+    Type.pm: add doc for kind() 
+
+  Change: c4361bc8f1a242461ccb4d40acdb45d0f33ae175
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-17 12:19:47 +0000
+
+    t: add test for C::TypeKind 
+
+  Change: 3e72d24a76848c0068571de5652d4273ab8bd967
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-17 12:09:41 +0000
+
+    Clang.xs: split in sub *.xs files 
+
+  Change: fb8acd2a327fe7022e0cf3d482453bac690a2e9b
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-17 11:36:10 +0000
+
+    Clang.xs: add initial support for Clang types 
+
+  Change: 84d4bb6419cec0e29f84724eeac59cfea167f709
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-17 11:02:31 +0000
+
+    Clang.xs: implement cursor kind's is_* methods 
+
+  Change: 954c86ce52fa883b9b43d7388826da6a38c7a857
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-17 10:38:32 +0000
+
+    add TODO 
+
+  Change: bf8fc3c0b8e4c6aeb4aa4aec5d2e186c3acd0867
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-17 10:37:10 +0000
+
+    Clang: rename C::I::Cursor* -> C::Cursor, C::I::TUnit -> C::TUnit 
+
+  Change: fdee42a14b8ca6d77eb103490e9c23217c2004fb
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-16 12:33:24 +0000
+
+    Cursor.pm: fix description formatting 
+
+-----------------------------------------
+version 0.02 at 2012-07-16 10:29:58 +0000
 -----------------------------------------
 
   Change: c3ee9432f228d07eff5779b3e287e82e80176bab

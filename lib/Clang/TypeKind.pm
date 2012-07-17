@@ -1,6 +1,6 @@
-package Clang::Index::CursorKind;
+package Clang::TypeKind;
 {
-  $Clang::Index::CursorKind::VERSION = '0.02';
+  $Clang::TypeKind::VERSION = '0.03';
 }
 
 use strict;
@@ -8,22 +8,21 @@ use warnings;
 
 =head1 NAME
 
-Clang::Index::CursorKind - Clang cursor kind class
+Clang::TypeKind - Clang type kind class
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 
-A C<Clang::Index::CursorKind> describes the kind of entity that a cursor refers
-to.
+A C<Clang::TypeKind> describes the kind of a given type.
 
-=head1 METHODS
+=head1 METHODS/SUBROUTINES
 
 =head2 spelling( )
 
-Retrieve the name of the given cursor kind.
+Retrieve the name of the given type kind.
 
 =head1 AUTHOR
 
@@ -41,4 +40,4 @@ See http://dev.perl.org/licenses/ for more information.
 
 =cut
 
-1; # End of Clang::Index::CursorKind
+1; # End of Clang::TypeKind

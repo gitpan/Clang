@@ -1,6 +1,6 @@
-package Clang::Index::TUnit;
+package Clang::TUnit;
 {
-  $Clang::Index::TUnit::VERSION = '0.02';
+  $Clang::TUnit::VERSION = '0.03';
 }
 
 use strict;
@@ -8,22 +8,21 @@ use warnings;
 
 =head1 NAME
 
-Clang::Index::TUnit - Clang translation unit class
+Clang::TUnit - Clang translation unit class
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 
-A C<Clang::Index::TUnit> represents a single translation unit which resides in
-an index.
+A C<Clang::TUnit> represents a single translation unit which resides in an index.
 
 =head1 METHODS
 
 =head2 cursor( )
 
-Retrieve the L<Clang::Index::Cursor> corresponding to the given translation unit.
+Retrieve the L<Clang::Cursor> corresponding to the given translation unit.
 
 =head2 spelling( )
 
@@ -45,4 +44,4 @@ See http://dev.perl.org/licenses/ for more information.
 
 =cut
 
-1; # End of Clang::Index::TUnit
+1; # End of Clang::TUnit
