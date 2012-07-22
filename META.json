@@ -47,7 +47,7 @@
          "web" : "https://github.com/AlexBio/p5-Clang"
       }
    },
-   "version" : "0.03",
+   "version" : "0.04",
    "x_Dist_Zilla" : {
       "plugins" : [
          {

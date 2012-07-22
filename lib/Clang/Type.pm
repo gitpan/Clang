@@ -1,6 +1,6 @@
 package Clang::Type;
 {
-  $Clang::Type::VERSION = '0.03';
+  $Clang::Type::VERSION = '0.04';
 }
 
 use strict;
@@ -12,11 +12,11 @@ Clang::Type - Clang type class
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 DESCRIPTION
 
-A L<Clang::Type> represents the type of an element in the AST.
+A C<Clang::Type> represents the type of an element in the AST.
 
 =head1 METHODS
 
