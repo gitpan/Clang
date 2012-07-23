@@ -1,9 +1,37 @@
 ==================================================
-Changes from 2011-07-23 00:00:00 +0000 to present.
+Changes from 2011-07-24 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.04 at 2012-07-22 10:43:38 +0000
+version 0.05 at 2012-07-23 18:08:36 +0000
+-----------------------------------------
+
+  Change: 484e7d6a666b5a82361ddb1ca666b91312d8ef6e
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-23 16:21:05 +0000
+
+    MakeMaker.pm: LIBS should be just a string 
+
+  Change: eef497c560afeae9976acb10d6208847db161d0d
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-23 15:57:25 +0000
+
+    Diagnostic.xs: add DESTROY method 
+
+  Change: 26af14aa421eac75ac61434b1392f1ca4f3a9487
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-23 15:10:24 +0000
+
+    Diagnostic.xs: initial support for diagnostics 
+
+  Change: 7447c2d0945a3366f4b55730bfd9a759b1e785c0
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-07-22 18:45:55 +0000
+
+    xs: remove newline after OUTPUT 
+
+-----------------------------------------
+version 0.04 at 2012-07-22 10:42:54 +0000
 -----------------------------------------
 
   Change: ab9883a9679d624bcc73515a41397c380bc5de1e

@@ -13,6 +13,7 @@ inc/MakeMaker.pm
 lib/Clang.pm
 lib/Clang/Cursor.pm
 lib/Clang/CursorKind.pm
+lib/Clang/Diagnostic.pm
 lib/Clang/Index.pm
 lib/Clang/TUnit.pm
 lib/Clang/Type.pm
@@ -22,6 +23,7 @@ t/01-tunit.t
 t/02-cursor.t
 t/03-cursorkind.t
 t/05-typekind.t
+t/06-diagnostic.t
 t/release-check-manifest.t
 t/release-pod-coverage.t
 t/release-pod-syntax.t
@@ -29,6 +31,7 @@ t/test.c
 typemap
 xs/Cursor.xs
 xs/CursorKind.xs
+xs/Diagnostic.xs
 xs/Index.xs
 xs/TUnit.xs
 xs/Type.xs

@@ -1,6 +1,6 @@
 package Clang::TUnit;
 {
-  $Clang::TUnit::VERSION = '0.04';
+  $Clang::TUnit::VERSION = '0.05';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Clang::TUnit - Clang translation unit class
 
 =head1 VERSION
 
-version 0.04
+version 0.05
 
 =head1 DESCRIPTION
 
@@ -27,6 +27,10 @@ Retrieve the L<Clang::Cursor> corresponding to the given translation unit.
 =head2 spelling( )
 
 Retrieve the original translation unit source file name.
+
+=head2 diagnostics( )
+
+Retrieve the L<Clang::Diagnostic>s associated with the given C<Clang::TUnit>.
 
 =head1 AUTHOR
 

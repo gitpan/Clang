@@ -24,7 +24,7 @@ resources:
   bugtracker: https://github.com/AlexBio/p5-Clang/issues
   homepage: http://metacpan.org/release/Clang/
   repository: git://github.com/AlexBio/p5-Clang.git
-version: 0.04
+version: 0.05
 x_Dist_Zilla:
   plugins:
     -

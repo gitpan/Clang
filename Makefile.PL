@@ -22,9 +22,7 @@ my %WriteMakefileArgs = (
   'DISTNAME' => 'Clang',
   'EXE_FILES' => [],
   'INC' => '-I.',
-  'LIBS' => [
-    '-lclang'
-  ],
+  'LIBS' => '-lclang',
   'LICENSE' => 'perl',
   'NAME' => 'Clang',
   'OBJECT' => '$(O_FILES)',
@@ -33,7 +31,7 @@ my %WriteMakefileArgs = (
     'strict' => '0',
     'warnings' => '0'
   },
-  'VERSION' => '0.04',
+  'VERSION' => '0.05',
   'test' => {
     'TESTS' => 't/*.t'
   }
