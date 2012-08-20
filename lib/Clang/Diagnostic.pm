@@ -1,6 +1,6 @@
 package Clang::Diagnostic;
 {
-  $Clang::Diagnostic::VERSION = '0.05';
+  $Clang::Diagnostic::VERSION = '0.06';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Clang::Diagnostic - Clang diagnostic class
 
 =head1 VERSION
 
-version 0.05
+version 0.06
 
 =head1 DESCRIPTION
 

@@ -1,6 +1,6 @@
 package Clang::CursorKind;
 {
-  $Clang::CursorKind::VERSION = '0.05';
+  $Clang::CursorKind::VERSION = '0.06';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Clang::CursorKind - Clang cursor kind class
 
 =head1 VERSION
 
-version 0.05
+version 0.06
 
 =head1 DESCRIPTION
 

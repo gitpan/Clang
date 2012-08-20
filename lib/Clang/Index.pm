@@ -1,6 +1,6 @@
 package Clang::Index;
 {
-  $Clang::Index::VERSION = '0.05';
+  $Clang::Index::VERSION = '0.06';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Clang::Index - Clang index class
 
 =head1 VERSION
 
-version 0.05
+version 0.06
 
 =head1 DESCRIPTION
 

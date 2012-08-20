@@ -1,9 +1,31 @@
 ==================================================
-Changes from 2011-07-24 00:00:00 +0000 to present.
+Changes from 2011-08-21 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.05 at 2012-07-23 18:08:36 +0000
+version 0.06 at 2012-08-20 11:20:11 +0000
+-----------------------------------------
+
+  Change: 45439a5b9cf075f6c7db8fd77470e8bb4571c231
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-08-20 13:19:18 +0000
+
+    travis.yml: add travis ci config 
+
+  Change: fec853bde01798cb61d358fedf53c467a3d5fb9e
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-08-13 20:39:21 +0000
+
+    Index.xs: replace SvPVbyte with *_nolen 
+
+  Change: d2e86a3fd80005ce14bc8d78e6cb44579e769f79
+  Author: Alessandro Ghedini <al3xbio@gmail.com>
+  Date : 2012-08-07 23:41:49 +0000
+
+    TODO: ++ 
+
+-----------------------------------------
+version 0.05 at 2012-07-23 14:21:05 +0000
 -----------------------------------------
 
   Change: 484e7d6a666b5a82361ddb1ca666b91312d8ef6e

@@ -1,6 +1,6 @@
 package Clang::TypeKind;
 {
-  $Clang::TypeKind::VERSION = '0.05';
+  $Clang::TypeKind::VERSION = '0.06';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Clang::TypeKind - Clang type kind class
 
 =head1 VERSION
 
-version 0.05
+version 0.06
 
 =head1 DESCRIPTION
 

@@ -1,6 +1,6 @@
 package Clang::TUnit;
 {
-  $Clang::TUnit::VERSION = '0.05';
+  $Clang::TUnit::VERSION = '0.06';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Clang::TUnit - Clang translation unit class
 
 =head1 VERSION
 
-version 0.05
+version 0.06
 
 =head1 DESCRIPTION
 
